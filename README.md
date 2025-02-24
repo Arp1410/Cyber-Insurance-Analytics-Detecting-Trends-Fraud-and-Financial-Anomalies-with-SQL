@@ -74,8 +74,9 @@ The dataset includes **cyber insurance claims** categorized by **threat type**, 
 ---
 
 ## 📜 SQL Code Snippets  
-```sql
+
 **1️⃣ Top 5 Companies with Most Claims**  
+```sql
 -- This query identifies the companies with the highest number of cyber insurance claims.  
 SELECT 
     company_name, 
@@ -85,10 +86,11 @@ GROUP BY company_name
 ORDER BY claim_count DESC
 LIMIT 5;
 
-```sql
+```
 **2️⃣ Identifying Inflated Loss Claims**
+```sql
 --This query detects companies with inflated claim amounts by calculating discrepancies between incurred and verified losses.
----
+
 WITH avg_losses AS (
     SELECT 
         company_name, 
@@ -104,8 +106,9 @@ WHERE avg_incurred_losses > (SELECT PERCENTILE_CONT(0.90) WITHIN GROUP (ORDER BY
 ORDER BY inflated_losses DESC
 LIMIT 10;
 
+```
+**3️⃣ Time-Series Analysis of Cyber Threats**
 ```sql
-**3️⃣ Time-Series Analysis of Cyber Threats ** 
 -- This query categorizes cyber insurance claims by threat type (Ransomware, Phishing, Data Breach, etc.) and tracks financial losses over time.
 ---
 SELECT 
