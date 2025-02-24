@@ -82,9 +82,11 @@ The following table summarizes the **key metrics** derived from the analysis, sh
 | Data Breach Claims (2020)       | 10x increase                  | Addressed remote work vulnerabilities       |
 | Inflated Claims Detected        | 15% of companies              | Saved $2.5M in potential fraud             |
 | Average Payout Increase         | 47%                          | Adjusted premiums for high-risk companies   |
+| 2024 Data Breach Losses         | $134 billion                 | Highest recorded losses, emphasizing urgency for better risk management |
+| 2024 Ransomware Claims          | 25% increase YoY             | Continued rise in ransomware attacks        |
+| 2024 Fraudulent Claims          | 20% of total claims          | Highlighted the need for enhanced fraud detection systems |
 
-This table provides a **quick snapshot** of the project's findings, emphasizing the **financial impact** of cybercrime and the **effectiveness of fraud detection strategies**.
----
+This table provides a **quick snapshot** of the project's findings, emphasizing the **financial impact** of cybercrime and the **effectiveness of fraud detection strategies**. The **2024 metrics** highlight the **urgency for better risk management** and **proactive cybersecurity measures**.
 
 ## 📜 SQL Code Snippets  
 
