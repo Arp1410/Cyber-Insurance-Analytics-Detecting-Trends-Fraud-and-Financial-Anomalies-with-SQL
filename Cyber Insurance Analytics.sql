@@ -1,7 +1,10 @@
 Cyber Insurance Analytics: Detecting Trends, Fraud, and Financial Anomalies with SQL
 Author: Arpita Salaria
 
--- Description: This project explores cyber insurance claims to uncover potential fraud, detect financial irregularities, and analyze emerging risk trends. By examining company details, claim amounts, incident types, and final payouts, the analysis provides data-driven insights to help insurers enhance risk assessment models and strengthen fraud detection strategies.
+-- Description: This project explores cyber insurance claims to uncover potential fraud, detect financial irregularities, 
+    and analyze emerging risk trends. By examining company details, claim amounts, incident types, and final payouts, 
+    the analysis provides data-driven insights to help insurers enhance risk assessment models and strengthen fraud 
+    detection strategies.
 
 -- =========================================
 -- 1. DATA IMPORT AND PRE-CLEANING
