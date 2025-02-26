@@ -3,7 +3,11 @@
 ## 📌 Overview
 This project leverages SQL to analyze cyber insurance claims, addressing the **growing challenge of cybercrime-related financial losses**. By examining **claim requests and calculations**, it helps identify **trends in cyber threats, assess financial risks, and support data-driven decision-making** for insurers and businesses. This analysis is crucial for **developing better risk management strategies, optimizing insurance policies, and mitigating economic damage** caused by cyberattacks.
 
-### 📊 Dataset: [Claim Request and Calculation Dataset (Kaggle)](https://www.kaggle.com/)
+## Dataset Used
+
+The dataset used for this project can be found on Kaggle:  
+[Claim Request and Calculation Dataset](https://www.kaggle.com/datasets/cloudnineforreal/claim-request-and-calculaation-datsaset)
+
 The dataset includes **cyber insurance claims** categorized by **threat type**, **year**, **incurred losses**, and **final payouts**.
 
 ---
