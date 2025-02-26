@@ -13,6 +13,17 @@ This project uses the [Claim Request and Calculation Dataset](https://www.kaggle
 
 The data was **cleaned and preprocessed** by handling missing values and standardizing date formats before running SQL queries.  
 
+## 📌 Key Questions Answered  
+
+This project investigates cyber insurance claims using SQL to uncover fraud patterns, detect financial irregularities, and assess risk. Key questions addressed include:  
+
+1️⃣ **Which companies fall within the top 5% of highest average payouts?**  
+2️⃣ **Are some companies overstating their cyber losses to maximize claims?**  
+3️⃣ **Are certain businesses underreporting losses to protect their reputation?**  
+4️⃣ **Which cyber threats show the biggest discrepancies between reported and verified losses?**  
+5️⃣ **Which companies repeatedly file claims for specific cyber threats over multiple years?**  
+6️⃣ **How has the frequency of cyber insurance claims changed over time for different types of threats?**  
+7️⃣ **Are fewer claims being filed, but with an increasing financial impact?**  
 
 ---
 
