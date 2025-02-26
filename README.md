@@ -5,7 +5,7 @@ This project leverages SQL to analyze cyber insurance claims, addressing the **g
 
 ## Dataset Used  
 
-This project uses the [Claim Request and Calculation Dataset](https://www.kaggle.com/datasets/cloudnineforreal/claim-request-and-calculaation-datsaset) from Kaggle, which contains **X rows and Y columns** of cyber insurance claim data. It includes:  
+This project uses the [Claim Request and Calculation Dataset](https://www.kaggle.com/datasets/cloudnineforreal/claim-request-and-calculaation-datsaset) from Kaggle and it includes:  
 
 - **Threat Types** (Ransomware, Phishing, Data Breach, etc.)  
 - **Financial Impact** (Incurred Losses, Final Payouts)  
