@@ -1,4 +1,4 @@
-# Cyber Insurance Analytics: Detecting Trends, Fraud, and Financial Anomalies with SQL
+# Cyber Insurance Analytics: Fraud Detection & Risk Assessment Using SQL
 
 ## 📌 Overview
 This project leverages SQL to analyze cyber insurance claims, addressing the **growing challenge of cybercrime-related financial losses**. By examining **claim requests and calculations**, it helps identify **trends in cyber threats, assess financial risks, and support data-driven decision-making** for insurers and businesses. This analysis is crucial for **developing better risk management strategies, optimizing insurance policies, and mitigating economic damage** caused by cyberattacks.
