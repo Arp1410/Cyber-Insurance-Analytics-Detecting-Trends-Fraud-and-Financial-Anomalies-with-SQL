@@ -3,32 +3,36 @@
 ## 📌 Overview
 This project leverages SQL to analyze cyber insurance claims, addressing the **growing challenge of cybercrime-related financial losses**. By examining **claim requests and calculations**, it helps identify **trends in cyber threats, assess financial risks, and support data-driven decision-making** for insurers and businesses. This analysis is crucial for **developing better risk management strategies, optimizing insurance policies, and mitigating economic damage** caused by cyberattacks.
 
-## Dataset Used
+## Dataset Used  
 
-The dataset used for this project can be found on Kaggle:  
-[Claim Request and Calculation Dataset](https://www.kaggle.com/datasets/cloudnineforreal/claim-request-and-calculaation-datsaset)
+This project uses the [Claim Request and Calculation Dataset](https://www.kaggle.com/datasets/cloudnineforreal/claim-request-and-calculaation-datsaset) from Kaggle, which contains **X rows and Y columns** of cyber insurance claim data. It includes:  
 
-The dataset includes **cyber insurance claims** categorized by **threat type**, **year**, **incurred losses**, and **final payouts**.
+- **Threat Types** (Ransomware, Phishing, Data Breach, etc.)  
+- **Financial Impact** (Incurred Losses, Final Payouts)  
+- **Policy Details** (Coverage Limits, Deductibles)  
+
+The data was **cleaned and preprocessed** by handling missing values and standardizing date formats before running SQL queries.  
+
 
 ---
 
-## 🔍 Key Insights 
+### 🔍 Key Insights  
 
-### 1. **Ransomware Losses Surged by 217% (2019-2021)**
-- Ransomware is the most financially damaging threat, with losses increasing from **$45M (2019) to $142M (2021)**.
-- **Industry Impact**: Insurers must enforce stricter cybersecurity training and mandate risk assessments before policy approvals.
+📊 **Ransomware Losses Surged by 217% (2019-2021)**  
+- Increased from **$45M to $142M**.  
+- **Action:** Insurers must enforce **stricter cybersecurity training** and **risk assessments** before policy approvals.  
 
-### 2. **Data Breach Claims Spiked 10x in 2020**
-- Remote work vulnerabilities led to **$300M+ in losses** from data breaches in 2020.
-- **Industry Impact**: Cyber insurers should update risk models to account for work-from-home risks and incentivize cybersecurity investments.
+📉 **Data Breach Claims Spiked 10x in 2020**  
+- **$300M+ in losses** due to remote work vulnerabilities.  
+- **Action:** Cyber insurers should **update risk models** for WFH risks.  
 
-### 3. **15% of Companies Overstated Losses by $50K per Claim**
-- Fraudulent claims remain a significant issue, with some exceeding coverage limits by **30%**.
-- **Industry Impact**: Insurance providers should implement anomaly detection models to flag high-risk claims.
+⚠️ **15% of Companies Overstated Losses by $50K per Claim**  
+- Some exceeded coverage limits by **30%**.  
+- **Action:** Insurers must **implement anomaly detection models**.  
 
-### 4. **Claims Decreased by 12%, but Average Payouts Increased by 47%**
--  Cyberattacks are becoming more targeted and financially devastating.
-- **Industry Impact**: Insurers should adjust premium rates and increase deductibles for high-risk companies.
+📉 **Claims Dropped 12%, But Payouts Increased 47%**  
+- Cyberattacks are now **more targeted and financially devastating**.  
+- **Action:** Adjust **premium rates and deductibles** for high-risk businesses.  
 
 ---
 
